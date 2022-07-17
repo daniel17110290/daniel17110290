@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center" width="300">
+   
+   <h3 align="center">¡Hey 👋! Soy Daniel Fernandez 👨🏻‍💻</h3>
+</p>
+
+<p align="center">Soy <strong>Desarrollador Full Stack</strong> <br />¡🇻🇪 🇦🇷!</p>
+<p align="center">
+
+          Habilidades: Full Stack Developer | JavaScript | ReactJS | NodeJS | ExpressJS | PostgreSql | Sequelize | Firebase
